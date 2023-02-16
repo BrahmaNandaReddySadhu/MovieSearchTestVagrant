@@ -1,0 +1,148 @@
+[INFO ] 2023-02-16 11:37:16.432 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:37:17.577 [main] ExcelUtil - number of the rows in excel5
+[INFO ] 2023-02-16 11:37:17.578 [main] ExcelUtil - number of the columns2
+[INFO ] 2023-02-16 11:37:17.621 [main] TestBase - set up method
+[INFO ] 2023-02-16 11:37:17.621 [main] TestBase - browser initailization
+[INFO ] 2023-02-16 11:37:17.622 [main] TestBase - browser name : chrome
+[INFO ] 2023-02-16 11:37:17.622 [main] TestBase - chrome driver instantiation
+[INFO ] 2023-02-16 11:38:02.844 [main] Validate - launching url :https://www.imdb.com/
+[INFO ] 2023-02-16 11:38:02.919 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:38:02.956 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:38:02.995 [main] TestBase - URL Name:https://www.imdb.com/
+[INFO ] 2023-02-16 11:38:08.217 [main] Validate - entering moving NamePushpa: The Rise
+[INFO ] 2023-02-16 11:38:08.218 [main] ImdbPage - searching for the movie name :Pushpa: The Rise
+[INFO ] 2023-02-16 11:38:11.120 [main] Validate - searching movie NamePushpa: The Rise
+[INFO ] 2023-02-16 11:38:11.173 [main] ImdbPage - movie list name in the searching page  :Pushpa: The Rise - Part 1
+[INFO ] 2023-02-16 11:38:11.196 [main] ImdbPage - Pushpa: The Rise contained in Pushpa: The Rise - Part 1
+[INFO ] 2023-02-16 11:38:26.377 [main] Validate - scrolling to details section
+[INFO ] 2023-02-16 11:38:26.463 [main] ImdbPage - original country from imdb page :India
+[INFO ] 2023-02-16 11:38:26.517 [main] ImdbPage - relase date from imdb page :December 17, 2021 (United States)
+[INFO ] 2023-02-16 11:38:26.517 [main] Validate - fetched the origin country Value from imdb :India
+[INFO ] 2023-02-16 11:38:26.517 [main] Validate - fetched the release date from imdb :India
+[INFO ] 2023-02-16 11:38:26.517 [main] Validate - Navigating to url:https://en.wikipedia.org/
+[INFO ] 2023-02-16 11:38:28.273 [main] Validate - searched movie name n wiki page :Pushpa: The Rise
+[INFO ] 2023-02-16 11:38:28.273 [main] WikiPage - searchng movie name in the wiki:Pushpa: The Rise
+[INFO ] 2023-02-16 11:38:30.484 [main] WikiPage - movie list values Pushpa: The Rise
+[INFO ] 2023-02-16 11:38:41.305 [main] WikiPage - release date from the wikipage : 17 December 2021
+[INFO ] 2023-02-16 11:38:41.324 [main] Validate - fetched the release date from wiki :17 December 2021
+[INFO ] 2023-02-16 11:38:41.352 [main] WikiPage - country from the wikipage : India
+[INFO ] 2023-02-16 11:38:41.370 [main] Validate - fetched the country from wiki :India
+[INFO ] 2023-02-16 11:38:41.382 [main] Validate - release date after convertion into proper format from wiki:2021-12-17
+[INFO ] 2023-02-16 11:38:41.382 [main] Validate - release date after convertion into proper format from imdb:2021-12-17
+[INFO ] 2023-02-16 11:38:41.390 [main] TestBase - teardown method
+[INFO ] 2023-02-16 11:38:41.657 [main] TestBase - set up method
+[INFO ] 2023-02-16 11:38:41.657 [main] TestBase - browser initailization
+[INFO ] 2023-02-16 11:38:41.657 [main] TestBase - browser name : chrome
+[INFO ] 2023-02-16 11:38:41.657 [main] TestBase - chrome driver instantiation
+[INFO ] 2023-02-16 11:38:42.783 [main] Validate - launching url :https://www.imdb.com/
+[INFO ] 2023-02-16 11:38:42.783 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:38:42.785 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:38:42.822 [main] TestBase - URL Name:https://www.imdb.com/
+[INFO ] 2023-02-16 11:38:49.413 [main] Validate - entering moving NameBaahubali: The beginning
+[INFO ] 2023-02-16 11:38:49.413 [main] ImdbPage - searching for the movie name :Baahubali: The beginning
+[INFO ] 2023-02-16 11:38:52.822 [main] Validate - searching movie NameBaahubali: The beginning
+[INFO ] 2023-02-16 11:38:52.867 [main] ImdbPage - movie list name in the searching page  :Baahubali: The Beginning
+[INFO ] 2023-02-16 11:38:52.888 [main] ImdbPage - Baahubali: The beginning contained in Baahubali: The Beginning
+[INFO ] 2023-02-16 11:39:07.393 [main] Validate - scrolling to details section
+[INFO ] 2023-02-16 11:39:07.458 [main] ImdbPage - original country from imdb page :India
+[INFO ] 2023-02-16 11:39:07.524 [main] ImdbPage - relase date from imdb page :July 9, 2015 (United States)
+[INFO ] 2023-02-16 11:39:07.524 [main] Validate - fetched the origin country Value from imdb :India
+[INFO ] 2023-02-16 11:39:07.524 [main] Validate - fetched the release date from imdb :India
+[INFO ] 2023-02-16 11:39:07.525 [main] Validate - Navigating to url:https://en.wikipedia.org/
+[INFO ] 2023-02-16 11:39:09.476 [main] Validate - searched movie name n wiki page :Baahubali: The beginning
+[INFO ] 2023-02-16 11:39:09.476 [main] WikiPage - searchng movie name in the wiki:Baahubali: The beginning
+[INFO ] 2023-02-16 11:39:12.210 [main] WikiPage - movie list values Baahubali: The Beginning
+[INFO ] 2023-02-16 11:39:22.939 [main] WikiPage - release date from the wikipage : 10 July 2015
+[INFO ] 2023-02-16 11:39:22.960 [main] Validate - fetched the release date from wiki :10 July 2015
+[INFO ] 2023-02-16 11:39:22.987 [main] WikiPage - country from the wikipage : India
+[INFO ] 2023-02-16 11:39:23.007 [main] Validate - fetched the country from wiki :India
+[INFO ] 2023-02-16 11:39:23.007 [main] Validate - release date after convertion into proper format from wiki:2015-07-10
+[INFO ] 2023-02-16 11:39:23.008 [main] Validate - release date after convertion into proper format from imdb:2015-07-09
+[INFO ] 2023-02-16 11:39:23.020 [main] TestBase - teardown method
+[INFO ] 2023-02-16 11:39:23.338 [main] TestBase - set up method
+[INFO ] 2023-02-16 11:39:23.338 [main] TestBase - browser initailization
+[INFO ] 2023-02-16 11:39:23.338 [main] TestBase - browser name : chrome
+[INFO ] 2023-02-16 11:39:23.339 [main] TestBase - chrome driver instantiation
+[INFO ] 2023-02-16 11:39:24.279 [main] Validate - launching url :https://www.imdb.com/
+[INFO ] 2023-02-16 11:39:24.279 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:39:24.280 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:39:24.317 [main] TestBase - URL Name:https://www.imdb.com/
+[INFO ] 2023-02-16 11:39:29.495 [main] Validate - entering moving NameK.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:29.495 [main] ImdbPage - searching for the movie name :K.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:32.340 [main] Validate - searching movie NameK.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:32.385 [main] ImdbPage - movie list name in the searching page  :K.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:32.401 [main] ImdbPage - K.G.F: Chapter 2 contained in K.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:45.864 [main] Validate - scrolling to details section
+[INFO ] 2023-02-16 11:39:45.929 [main] ImdbPage - original country from imdb page :India
+[INFO ] 2023-02-16 11:39:45.978 [main] ImdbPage - relase date from imdb page :April 13, 2022 (United States)
+[INFO ] 2023-02-16 11:39:45.979 [main] Validate - fetched the origin country Value from imdb :India
+[INFO ] 2023-02-16 11:39:45.979 [main] Validate - fetched the release date from imdb :India
+[INFO ] 2023-02-16 11:39:45.979 [main] Validate - Navigating to url:https://en.wikipedia.org/
+[INFO ] 2023-02-16 11:39:47.897 [main] Validate - searched movie name n wiki page :K.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:47.897 [main] WikiPage - searchng movie name in the wiki:K.G.F: Chapter 2
+[INFO ] 2023-02-16 11:39:51.223 [main] WikiPage - movie list values K.G.F: Chapter 2
+[INFO ] 2023-02-16 11:40:02.155 [main] WikiPage - release date from the wikipage : 14 April 2022
+[INFO ] 2023-02-16 11:40:02.174 [main] Validate - fetched the release date from wiki :14 April 2022
+[INFO ] 2023-02-16 11:40:02.201 [main] WikiPage - country from the wikipage : India
+[INFO ] 2023-02-16 11:40:02.219 [main] Validate - fetched the country from wiki :India
+[INFO ] 2023-02-16 11:40:02.220 [main] Validate - release date after convertion into proper format from wiki:2022-04-14
+[INFO ] 2023-02-16 11:40:02.220 [main] Validate - release date after convertion into proper format from imdb:2022-04-13
+[INFO ] 2023-02-16 11:40:02.224 [main] TestBase - teardown method
+[INFO ] 2023-02-16 11:40:02.549 [main] TestBase - set up method
+[INFO ] 2023-02-16 11:40:02.549 [main] TestBase - browser initailization
+[INFO ] 2023-02-16 11:40:02.549 [main] TestBase - browser name : chrome
+[INFO ] 2023-02-16 11:40:02.549 [main] TestBase - chrome driver instantiation
+[INFO ] 2023-02-16 11:40:03.530 [main] Validate - launching url :https://www.imdb.com/
+[INFO ] 2023-02-16 11:40:03.530 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:40:03.531 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:40:03.573 [main] TestBase - URL Name:https://www.imdb.com/
+[INFO ] 2023-02-16 11:40:08.600 [main] Validate - entering moving NameBaahubali: The beginning
+[INFO ] 2023-02-16 11:40:08.600 [main] ImdbPage - searching for the movie name :Baahubali: The beginning
+[INFO ] 2023-02-16 11:40:12.033 [main] Validate - searching movie NameBaahubali: The beginning
+[INFO ] 2023-02-16 11:40:12.080 [main] ImdbPage - movie list name in the searching page  :Baahubali: The Beginning
+[INFO ] 2023-02-16 11:40:12.101 [main] ImdbPage - Baahubali: The beginning contained in Baahubali: The Beginning
+[INFO ] 2023-02-16 11:40:27.076 [main] Validate - scrolling to details section
+[INFO ] 2023-02-16 11:40:27.155 [main] ImdbPage - original country from imdb page :India
+[INFO ] 2023-02-16 11:40:27.205 [main] ImdbPage - relase date from imdb page :July 9, 2015 (United States)
+[INFO ] 2023-02-16 11:40:27.206 [main] Validate - fetched the origin country Value from imdb :India
+[INFO ] 2023-02-16 11:40:27.206 [main] Validate - fetched the release date from imdb :India
+[INFO ] 2023-02-16 11:40:27.206 [main] Validate - Navigating to url:https://en.wikipedia.org/
+[INFO ] 2023-02-16 11:40:29.391 [main] Validate - searched movie name n wiki page :Pushpa: The Rise
+[INFO ] 2023-02-16 11:40:29.391 [main] WikiPage - searchng movie name in the wiki:Pushpa: The Rise
+[INFO ] 2023-02-16 11:40:32.034 [main] WikiPage - movie list values Pushpa: The Rise
+[INFO ] 2023-02-16 11:40:43.444 [main] WikiPage - release date from the wikipage : 17 December 2021
+[INFO ] 2023-02-16 11:40:43.489 [main] Validate - fetched the release date from wiki :17 December 2021
+[INFO ] 2023-02-16 11:40:43.533 [main] WikiPage - country from the wikipage : India
+[INFO ] 2023-02-16 11:40:43.552 [main] Validate - fetched the country from wiki :India
+[INFO ] 2023-02-16 11:40:43.552 [main] Validate - release date after convertion into proper format from wiki:2021-12-17
+[INFO ] 2023-02-16 11:40:43.553 [main] Validate - release date after convertion into proper format from imdb:2015-07-09
+[INFO ] 2023-02-16 11:40:43.556 [main] TestBase - teardown method
+[INFO ] 2023-02-16 11:40:43.871 [main] TestBase - set up method
+[INFO ] 2023-02-16 11:40:43.871 [main] TestBase - browser initailization
+[INFO ] 2023-02-16 11:40:43.871 [main] TestBase - browser name : chrome
+[INFO ] 2023-02-16 11:40:43.871 [main] TestBase - chrome driver instantiation
+[INFO ] 2023-02-16 11:40:44.793 [main] Validate - launching url :https://www.imdb.com/
+[INFO ] 2023-02-16 11:40:44.794 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:40:44.795 [main] TestBase - Loading the properties file
+[INFO ] 2023-02-16 11:40:44.863 [main] TestBase - URL Name:https://www.imdb.com/
+[INFO ] 2023-02-16 11:40:50.742 [main] Validate - entering moving NamePushpa: The Rise
+[INFO ] 2023-02-16 11:40:50.742 [main] ImdbPage - searching for the movie name :Pushpa: The Rise
+[INFO ] 2023-02-16 11:40:52.923 [main] Validate - searching movie NamePushpa: The Rise
+[INFO ] 2023-02-16 11:40:52.962 [main] ImdbPage - movie list name in the searching page  :Pushpa: The Rise - Part 1
+[INFO ] 2023-02-16 11:40:52.980 [main] ImdbPage - Pushpa: The Rise contained in Pushpa: The Rise - Part 1
+[INFO ] 2023-02-16 11:41:07.605 [main] Validate - scrolling to details section
+[INFO ] 2023-02-16 11:41:07.662 [main] ImdbPage - original country from imdb page :India
+[INFO ] 2023-02-16 11:41:07.711 [main] ImdbPage - relase date from imdb page :December 17, 2021 (United States)
+[INFO ] 2023-02-16 11:41:07.711 [main] Validate - fetched the origin country Value from imdb :India
+[INFO ] 2023-02-16 11:41:07.711 [main] Validate - fetched the release date from imdb :India
+[INFO ] 2023-02-16 11:41:07.711 [main] Validate - Navigating to url:https://en.wikipedia.org/
+[INFO ] 2023-02-16 11:41:10.257 [main] Validate - searched movie name n wiki page :Baahubali: The beginning
+[INFO ] 2023-02-16 11:41:10.257 [main] WikiPage - searchng movie name in the wiki:Baahubali: The beginning
+[INFO ] 2023-02-16 11:41:12.256 [main] WikiPage - movie list values Baahubali: The Beginning
+[INFO ] 2023-02-16 11:41:23.110 [main] WikiPage - release date from the wikipage : 10 July 2015
+[INFO ] 2023-02-16 11:41:23.142 [main] Validate - fetched the release date from wiki :10 July 2015
+[INFO ] 2023-02-16 11:41:23.169 [main] WikiPage - country from the wikipage : India
+[INFO ] 2023-02-16 11:41:23.187 [main] Validate - fetched the country from wiki :India
+[INFO ] 2023-02-16 11:41:23.187 [main] Validate - release date after convertion into proper format from wiki:2015-07-10
+[INFO ] 2023-02-16 11:41:23.187 [main] Validate - release date after convertion into proper format from imdb:2021-12-17
+[INFO ] 2023-02-16 11:41:23.191 [main] TestBase - teardown method

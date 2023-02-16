@@ -1,0 +1,5 @@
+moviesearch\base\TestBase.class
+moviesearch\utils\ExcelUtil.class
+moviesearch\pages\ImdbPage.class
+moviesearch\utils\Utilities.class
+moviesearch\pages\WikiPage.class
