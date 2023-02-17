@@ -42,5 +42,3 @@ Run Using Jenkins:
  17) you can click on Build Now , once execution completed ,you can see the results by go inside particular build number
     
 
-
-
